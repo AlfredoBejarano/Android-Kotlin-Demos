@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin Local Server Demo</string>
+    <string name="start_server" translatable="true">Iniciar servidor local</string>
+    <string name="see_response">Ver respuesta del servidor</string>
+</resources>
