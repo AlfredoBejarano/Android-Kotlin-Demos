@@ -13,7 +13,7 @@ This repository contains the following demos:
  - **[Text-To-Speech Demo](./TextToSpeechDemo)** Basic app in which you input some text and the app reads it.
  - **[Circular Progress Bar Demo](./CircularProgressBarDemo)** Fancy ProgressBar using custom drawables to represent its progress.
  - **[Kotlin Local Server Demo](./KotlinLocalServerDemo)** Simple app that loads a JSON in a WebView using a local server created by the app Itself using the [**Ktor framework**](https://ktor.io/).
- - 
+ 
 I hope you find these useful.
 
 _Made with :heart: by **@AlfredoBejarano**_
