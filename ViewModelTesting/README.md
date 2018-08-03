@@ -1,7 +1,5 @@
 
 # ViewModel Testing Examples
-![photo](https://developer.android.com/static/images/jetpack/jetpack-hero.svg)
-
 
 This project contains two ViewModel classes, one extends from **ViewModel** and the other extends from **Android ViewModel**, both classes
 have the same method that sums a vararg of Integers.
